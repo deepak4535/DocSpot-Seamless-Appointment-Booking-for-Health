@@ -1,4 +1,4 @@
-# MediCareBook — Book a Doctor (MERN Stack)
+DocSpot-Seamless-Appointment-Booking-for-Health
 
 A full-stack doctor appointment booking platform with three roles — **Patient**,
 **Doctor**, and **Admin** — built on MongoDB, Express, React, and Node (MERN).
